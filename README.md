@@ -4,14 +4,22 @@ I'm a highly skilled and experienced Backend Engineer with over 4 years of indus
 
 ## Work Experience
 
+**Sales-I** `January 2023` - `Present` 
+
+*DevOps Engineer*
+
+- Streamlined deployment and management of Kubernetes resources with AKS and adeptly managed access control and security policies for Kubernetes resources using RBAC and Azure AD integration.
+- Additionally, I contributed to building robust Continuous Integration and Continuous Deployment pipelines to maintain platform stability and reliability.
+- Experienced in leveraging Kubernetes to orchestrate and manage containerised applications, ensuring optimal availability and scalability. Proficient in monitoring and analysing system performance using DataDog, proactively implementing adjustments to enhance efficiency and speed. Skilled in optimising Kubernetes cluster performance and resource utilisation through effective monitoring, scaling, and deployment strategies.
+- Kubernetes, AKS, Terraform, DataDog
+
 **Sales-I** `October 2021` - `Present` 
 
 *Backend Services Engineer*
 
-- As a Backend Services Engineer, I effectively led a team of 8+ highly skilled individuals to deliver top-notch products. I played a key role in designing and developing over 15 microservices to fit the needs of our platform. My expertise in identifying, analysing, and resolving software bugs during development, quality assurance, and production stages proved invaluable.
-- I collaborated closely with the product team to ensure that our offerings met the needs of the business and its customers. Additionally, I contributed to building robust Continuous Integration and Continuous Deployment pipelines to maintain platform stability and reliability.
-- I monitored and analysed system performance and made necessary adjustments to improve overall efficiency and speed. Additionally, I provided regular training and mentorship to team members to enhance their skills and knowledge of the backend services. I am also proactive in staying up-to-date with the latest technologies and industry trends to bring new and innovative solutions to our team.
-- Golang, GraphQL, Postgres, Azure Kubernetes Service (AKS), Azure Synapse Analytics
+- As a Backend Services Engineer, I effectively led and mentored a team of 8+ highly skilled individuals to deliver top-notch backend products. I play a key role in designing and developing over 15 microservices to fit the needs of our platform. This includes identifying, analysing, and resolving software bugs during development, quality assurance, improving system performance and keeping technologies up to date with industry standards.
+- I collaborated closely with the product team to ensure that our offerings met the needs of the business and its customers. I monitored and analysed system performance and made necessary adjustments to improve overall efficiency and speed. Additionally, I provided regular training and mentorship to team members to enhance their skills and knowledge of the backend services. I am also proactive in staying up-to-date with the latest technologies and industry trends to bring new and innovative solutions to our team.
+- Golang, GraphQL, Postgres, Azure Serverless SQL Pools, Azure Synapse Analytics, JIRA
 
 **borwell Ltd** `September 2018` - `October 2021` 
 
