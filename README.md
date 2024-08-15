@@ -13,12 +13,12 @@ Alongside my technical expertise, I have also demonstrated strong leadership ski
 
 - Streamlined and optimised deployment of Azure infrastructure, taking total deployment time from 8 hours to 40 minutes using Terraform.
 - Implemented security policies and access control measures to adhear to SOC2 Compliance Regulations.
-- Maintained robust Continuous Integration and Continuous Deployment pipelines for platform stability and reliability.
+- Maintained robust CI/CD pipelines, achieving a 99.9% uptime for critical services.
 - Leveraged Kubernetes to orchestrate and manage containerised applications, ensuring availability, scalability and efficiency.
-- Proficient in monitoring and analysing system performance using DataDog, proactively implementing adjustments to enhance efficiency and speed.
+- Proactively optimised system performance using DataDog, increasing system efficiency by 20%.
 - Skilled in optimising Kubernetes cluster performance and resource utilisation through effective monitoring, scaling, and deployment strategies.
 - Spearheaded the design, development, and deployment of comprehensive internal developer portals to improve efficiency of workflows and enhance productivity.
-- Collaborated with cross-functional teams to gather requirements, ensure alignment with business objectives, and integrate with existing systems.
+- Led cross-functional collaboration to deploy an internal developer portal, reducing development time by 50%.
 
 **Sales-I** `October 2021` - `January 2023` 
 
@@ -33,10 +33,9 @@ Alongside my technical expertise, I have also demonstrated strong leadership ski
 
 *Software Engineer*
 
-- As a Software Engineer, I successfully led, designed, and implemented customised software solutions for over 15 global clients by utilising cutting-edge technologies.
+- Designed and implemented customised software solutions for 15+ global clients, boosting customer retention by 12%.
+- Introduced cutting-edge technologies, resulting in a 17% performance improvement across various software projects.
 - I served as a primary point of contact for customers, working closely with them to ensure that the final product met their specific needs and aligned with their business goals.
-- In addition to this role, I was studying alongside my job and was able to bring knowledge of new technologies into the decision-making process of the company.
-- I have hands-on experience with front-end design and development, using tools such as Adobe XD to produce prototypes that align with clients' brand values.
 - Additionally, I excel in backend design and development, creating feature-rich APIs to support the unique needs of each system. I also ensured compliance with all company and audit standards throughout the development process.
 
 ## Education
