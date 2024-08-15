@@ -11,21 +11,25 @@ Alongside my technical expertise, I have also demonstrated strong leadership ski
 
 *DevOps Engineer*
 
-- Streamlined deployment and management of Kubernetes resources with AKS and adeptly managed access control and security policies for Kubernetes resources using RBAC and Azure AD integration.
-- Additionally, I contributed to building robust Continuous Integration and Continuous Deployment pipelines to maintain platform stability and reliability whilst managing the GitHub organisation at a large scale.
-- Experienced in leveraging Kubernetes to orchestrate and manage containerised applications, ensuring optimal availability and scalability. Proficient in monitoring and analysing system performance using DataDog, proactively implementing adjustments to enhance efficiency and speed. Skilled in optimising Kubernetes cluster performance and resource utilisation through effective monitoring, scaling, and deployment strategies.
-- Spearheaded the design, development, and deployment of comprehensive internal developer portals to improve efficiency of workflows and enhance productivity. Collaborated with cross-functional teams to gather requirements, ensure alignment with business objectives, and integrate with existing systems.
-- Kubernetes, GitHub, AKS, Terraform, DataDog, Retool, Azure
+- Streamlined and optimised deployment of Azure infrastructure, taking total deployment time from 8 hours to 40 minutes using Terraform.
+- Implemented security policies and access control measures to adhear to SOC2 Compliance Regulations.
+- Maintained robust Continuous Integration and Continuous Deployment pipelines for platform stability and reliability.
+- Leveraged Kubernetes to orchestrate and manage containerised applications, ensuring availability, scalability and efficiency.
+- Proficient in monitoring and analysing system performance using DataDog, proactively implementing adjustments to enhance efficiency and speed.
+- Skilled in optimising Kubernetes cluster performance and resource utilisation through effective monitoring, scaling, and deployment strategies.
+- Spearheaded the design, development, and deployment of comprehensive internal developer portals to improve efficiency of workflows and enhance productivity.
+- Collaborated with cross-functional teams to gather requirements, ensure alignment with business objectives, and integrate with existing systems.
 
-**Sales-I, a SugarCRM Company** `October 2021` - `Present` 
+**Sales-I** `October 2021` - `January 2023` 
 
-*Backend Services Engineer*
+*Software Engineer*
 
-- As a Backend Services Engineer, I effectively led and mentored a team of 8+ highly skilled individuals to deliver top-notch backend products. I play a key role in designing and developing over 15 microservices to fit the needs of our platform. This includes identifying, analysing, and resolving software bugs during development, quality assurance, improving system performance and keeping technologies up to date with industry standards.
-- I collaborated closely with the product team to ensure that our offerings met the needs of the business and its customers. I monitored and analysed system performance and made necessary adjustments to improve overall efficiency and speed. Additionally, I provided regular training and mentorship to team members to enhance their skills and knowledge of the backend services. I am also proactive in staying up-to-date with the latest technologies and industry trends to bring new and innovative solutions to our team.
-- Golang, GraphQL, Postgres, Azure Serverless SQL Pools, Azure Synapse Analytics, JIRA
+- Led a team of 8+ highly skilled engineers to deliver industry-leading backend products of over 20 services in a microservice architecture.
+- Collaborated closely with the product team to ensure that our offerings met the needs of the business and its customers.
+- Monitored and analysed system performance and made necessary adjustments to improve overall efficiency and speed.
+- Provided regular training and mentorship to team members to enhance their skills and knowledge of the backend services.
 
-**borwell Ltd** `September 2018` - `October 2021` 
+**borwell limited** `September 2018` - `October 2021` 
 
 *Software Engineer*
 
@@ -44,11 +48,3 @@ Alongside my technical expertise, I have also demonstrated strong leadership ski
 **Heart of Worcestershire College** `September 2016` - `July 2018` 
 
 *Subsidiary & Extended Diploma in IT (Level 3)*
-
-**Heart of Worcestershire College** `September 2015` - `July 2016` 
-
-*Creative & Interactive Media Production (Level 2)*
-
-**Blessed Edward Oldcorne Catholic College** `September 2011` - `August 2015` 
-
-*English (B), Maths (C), IT (C), Science (C), Additional Science (C)*
