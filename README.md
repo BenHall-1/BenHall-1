@@ -27,7 +27,6 @@ Alongside my technical expertise, I have also demonstrated strong leadership ski
 - Led a team of 8+ highly skilled engineers to deliver industry-leading backend products of over 20 services in a microservice architecture.
 - Collaborated closely with the product team to ensure that our offerings met the needs of the business and its customers.
 - Monitored and analysed system performance and made necessary adjustments to improve overall efficiency and speed.
-- Provided regular training and mentorship to team members to enhance their skills and knowledge of the backend services.
 
 **borwell limited** `September 2018` - `October 2021` 
 
