@@ -7,11 +7,16 @@ Alongside my technical expertise, I have also demonstrated strong leadership ski
 
 ## Work Experience
 
-**Sales-I, a SugarCRM Company** `January 2025` - `Present` 
+**SugarCRM** `January 2025` - `Present` 
 
 *Site Reliability Engineer*
 
-
+- Maintained 99.9% uptime for critical production services throughout proactive monitoring and incident response.
+- Developed comprehensive runbooks and automation to reduce operation toil.
+- Implemented robust access logging and auditing for our production systems to comply with SOC2 and ISO27001 regulations.
+- Established on-call and escalation procedures to provide 24/7 coverage of the core system functionality.
+- Ensured a smooth integration between the existing Sales-I Operations team and the SugarCRM Operations team, leveraging the expertise from both teams.
+- Used Kubernetes Resource Optimisation experience for long-term capacity planning and budgeting.
 
 **Sales-I, a SugarCRM Company** `January 2023` - `January 2025` 
 
