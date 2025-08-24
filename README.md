@@ -7,7 +7,13 @@ Alongside my technical expertise, I have also demonstrated strong leadership ski
 
 ## Work Experience
 
-**Sales-I, a SugarCRM Company** `January 2023` - `Present` 
+**Sales-I, a SugarCRM Company** `January 2025` - `Present` 
+
+*Site Reliability Engineer*
+
+
+
+**Sales-I, a SugarCRM Company** `January 2023` - `January 2025` 
 
 *DevOps Engineer*
 
