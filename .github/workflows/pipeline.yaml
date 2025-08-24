@@ -24,9 +24,9 @@ jobs:
         run: |
           cp backend/outputs/output.md README.md
           rm -rf backend/
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
+          git config --global user.name 'Ben Hall'
+          git config --global user.email 'ben@benh.codes'
           git add README.md
-          git commit -m "Automatically Updated README.md"
+          git commit -m "chore: Update README based on CV updates [skip ci]"
           git push origin HEAD:main
          
