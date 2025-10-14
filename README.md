@@ -7,6 +7,16 @@ Alongside my technical expertise, I have also demonstrated strong leadership ski
 
 ## Work Experience
 
+**BH Cloud Labs Ltd** `January 2025` - `Present` 
+
+*Director*
+
+- Spearheaded the launch of tickets.bot, an innovative ticketing solution serving over 280,000 communities in just 10 months
+- Achieved 99.9% uptime and processed over 21 million tickets with zero security incidents
+- Established tickets.bot as a trusted solution in the Discord support-system market
+- Maintained 95% customer retention rate through proactive product iteration and customer success initiatives
+- Built scalable infrastructure supporting 50 million users and over 280,000 communities
+
 **SugarCRM** `January 2025` - `Present` 
 
 *Site Reliability Engineer*
