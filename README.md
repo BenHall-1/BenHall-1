@@ -1,6 +1,6 @@
 # Ben Hall
 
-Site Reliability Engineer with 7+ years building and scaling backend systems. Currently balancing two roles: maintaining 99.9% uptime for enterprise SaaS at SugarCRM while running tickets.bot, a platform serving 58 million users across 345,000 Discord communities on minimal infrastructure. Background spans Software Engineering, DevOps, and Team Leadership (8+ engineers), with deep experience in Kubernetes, Terraform, and compliance frameworks (SOC2, ISO27001).
+Site Reliability Engineer with 7+ years building and scaling backend systems. Currently balancing two roles: maintaining 99.9% uptime for enterprise SaaS at SugarCRM while running tickets.bot, a platform serving 64 million users across 465,000 Discord communities on minimal infrastructure. Background spans Software Engineering, DevOps, and Team Leadership (8+ engineers), with deep experience in Kubernetes, Terraform, and compliance frameworks (SOC2, ISO27001).
 
 ## Work Experience
 
@@ -8,7 +8,7 @@ Site Reliability Engineer with 7+ years building and scaling backend systems. Cu
 
 *Director*
 
-- Spearheaded the launch of tickets.bot, an innovative ticketing solution serving over 345,000 communities with a total of 58 million members in just 12 months
+- Spearheaded the launch of tickets.bot, an innovative ticketing solution serving over 465,000 communities with a total of 64 million members in just 12 months
 - Achieved 99.9% uptime and processed over 39 million tickets with zero security incidents
 - Established tickets.bot as a trusted solution in the Discord support-system market
 - Maintained 95% customer retention rate through proactive product iteration and customer success initiatives
