@@ -13,7 +13,7 @@ Site Reliability Engineer with 7+ years building and scaling backend systems. Cu
 - Established tickets.bot as a trusted solution in the Discord support-system market
 - Maintained 95% customer retention rate through proactive product iteration and customer success initiatives
 
-**SugarCRM** `January 2025` - `Present` 
+**SugarCRM** `January 2025` - `September 2026` 
 
 *Site Reliability Engineer*
 
