@@ -4,6 +4,12 @@ Site Reliability Engineer with 7+ years building and scaling backend systems. Cu
 
 ## Work Experience
 
+**EDF Energy** `September 2026` - `Present` 
+
+*Platform Engineer*
+
+
+
 **BH Cloud Labs Ltd** `January 2025` - `Present` 
 
 *Director*
