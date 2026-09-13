@@ -1,6 +1,6 @@
 # Ben Hall
 
-Platform & SRE Engineer with 8+ years building and scaling backend systems and cloud infrastructure. Currently a Platform Engineer at EDF Energy, working within the Nuclear industry on cloud platform engineering. Alongside my day role, I run BH Cloud Labs Ltd and tickets.bot — a Discord-native support ticketing platform serving 70 million users across 630,000 communities on minimal self-managed infrastructure. Background spans Software Engineering, DevOps, and SRE, with deep experience in Azure, Kubernetes, Terraform, CI/CD, and compliance frameworks. Previously at SugarAI (formerly Sales-i) across software engineering and SRE roles.
+Platform & SRE Engineer with 8+ years building and scaling backend systems and cloud infrastructure. Currently a Platform Engineer at EDF Energy, working within the Nuclear industry on cloud platform engineering. Alongside my day role, I run BH Cloud Labs Ltd and tickets.bot - a Discord-native support ticketing platform serving 70 million users across 630,000 communities on minimal self-managed infrastructure. Background spans Software Engineering, DevOps, and SRE, with deep experience in Azure, Kubernetes, Terraform, CI/CD, and compliance frameworks. Previously at SugarAI (formerly Sales-i) across software engineering and SRE roles.
 
 ## Work Experience
 
