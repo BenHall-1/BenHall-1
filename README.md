@@ -1,6 +1,6 @@
 # Ben Hall
 
-Site Reliability Engineer with 7+ years building and scaling backend systems. Currently balancing two roles: maintaining 99.9% uptime for enterprise SaaS at SugarCRM while running tickets.bot, a platform serving 64 million users across 465,000 Discord communities on minimal infrastructure. Background spans Software Engineering, DevOps, and Team Leadership (8+ engineers), with deep experience in Kubernetes, Terraform, and compliance frameworks (SOC2, ISO27001).
+Platform & SRE Engineer with 8+ years building and scaling backend systems and cloud infrastructure. Currently a Platform Engineer at EDF Energy, working within the Nuclear industry on cloud platform engineering. Alongside my day role, I run BH Cloud Labs Ltd and tickets.bot — a Discord-native support ticketing platform serving 70 million users across 630,000 communities on minimal self-managed infrastructure. Background spans Software Engineering, DevOps, and SRE, with deep experience in Azure, Kubernetes, Terraform, CI/CD, and compliance frameworks. Previously at SugarAI (formerly Sales-i) across software engineering and SRE roles.
 
 ## Work Experience
 
@@ -14,12 +14,12 @@ Site Reliability Engineer with 7+ years building and scaling backend systems. Cu
 
 *Director*
 
-- Spearheaded the launch of tickets.bot, an innovative ticketing solution serving over 465,000 communities with a total of 64 million members in just 12 months
-- Achieved 99.9% uptime and processed over 39 million tickets with zero security incidents
+- Spearheaded the launch of tickets.bot, an innovative ticketing solution serving over 630,000 communities with a total of 70 million members in just 18 months
+- Achieved 99.9% uptime and processed over 62 million tickets with zero security incidents
 - Established tickets.bot as a trusted solution in the Discord support-system market
 - Maintained 95% customer retention rate through proactive product iteration and customer success initiatives
 
-**SugarCRM** `January 2025` - `September 2026` 
+**SugarAI** `January 2025` - `September 2026` 
 
 *Site Reliability Engineer*
 
@@ -30,7 +30,7 @@ Site Reliability Engineer with 7+ years building and scaling backend systems. Cu
 - Ensured a smooth integration between the existing Sales-I Operations team and the SugarCRM Operations team, leveraging the expertise from both teams.
 - Used Kubernetes Resource Optimisation experience for long-term capacity planning and budgeting.
 
-**Sales-I, a SugarCRM Company** `January 2023` - `January 2025` 
+**SugarAI** `January 2023` - `January 2025` 
 
 *DevOps Engineer*
 
@@ -41,7 +41,7 @@ Site Reliability Engineer with 7+ years building and scaling backend systems. Cu
 - Leveraged Kubernetes to orchestrate containerised applications, optimising cluster performance and resource utilisation for availability and scalability.
 - Led cross-functional collaboration to design and deploy an internal developer portal, reducing development time by 50%.
 
-**Sales-I** `October 2021` - `January 2023` 
+**SugarAI** `October 2021` - `January 2023` 
 
 *Software Engineer*
 
@@ -49,7 +49,7 @@ Site Reliability Engineer with 7+ years building and scaling backend systems. Cu
 - Collaborated closely with the product team to ensure that our offerings met the needs of the business and its customers.
 - Monitored and analysed system performance and made necessary adjustments to improve overall efficiency and speed.
 
-**borwell limited** `September 2018` - `October 2021` 
+**borwell** `September 2018` - `October 2021` 
 
 *Software Engineer*
 
